@@ -1,5 +1,7 @@
 # 🌦️ WeatherApp
 
+![WeatherApp Screenshot](https://raw.githubusercontent.com/Marcos-Valee/WeatherApp/main/src/images/screenshot.png)
+
 WeatherApp é uma aplicação React que permite aos usuários consultar informações meteorológicas em tempo real para qualquer cidade do mundo. A interface é moderna e responsiva, utilizando TailwindCSS e animações com Framer Motion.
 
 ## 🚀 Funcionalidades
@@ -17,10 +19,3 @@ WeatherApp é uma aplicação React que permite aos usuários consultar informa�
 - **Framer Motion**: Biblioteca para animações suaves e interativas.
 - **OpenWeather API**: API para obter dados meteorológicos em tempo real.
 
-## 📸 Demonstração
-
-![WeatherApp Screenshot](src/images/screenshot.png)
-
-## 📂 Estrutura do Projeto
-
-src/ ├── Components/ │ ├── InputWeather.jsx # Componente de entrada para busca de cidades │ ├── ViewWeather.jsx # Componente para exibição dos dados meteorológicos │ ├── WeatherApp.jsx # Componente principal da aplicação ├── images/ # Imagens utilizadas na aplicação ├── App.jsx # Componente raiz ├── main.jsx # Ponto de entrada da aplicação ├── index.css # Estilos globais
