@@ -35,7 +35,7 @@ function WeatherApp() {
   }, [city]);
 
   return (
-    <div className="bg-[rgba(255,255,255,0.1)] backdrop-blur-[30px] border-[rgba(255,255,255,0.22)] border-2 flex flex-col items-center mb-60 rounded-lg p-4">
+    <div className="bg-[rgba(255,255,255,0.1)] backdrop-blur-[30px] border-[rgba(255,255,255,0.22)] border-2 flex flex-col items-center rounded-lg p-4">
       <InputWeather setCity={setCity} />
       <ViewWeather weatherData={weather} error={error}/>
     </div>

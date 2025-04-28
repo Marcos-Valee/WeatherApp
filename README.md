@@ -19,7 +19,7 @@ WeatherApp é uma aplicação React que permite aos usuários consultar informa�
 
 ## 📸 Demonstração
 
-![WeatherApp Screenshot](https://via.placeholder.com/800x400?text=WeatherApp+Screenshot)
+![WeatherApp Screenshot](src/images/screenshot.png)
 
 ## 📂 Estrutura do Projeto
 
