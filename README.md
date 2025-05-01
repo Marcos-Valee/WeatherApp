@@ -2,7 +2,7 @@
 
 ![WeatherApp Screenshot](https://raw.githubusercontent.com/Marcos-Valee/WeatherApp/main/src/images/capturaDeTela.png)
 
-Confira o projeto online: [React com Firebase - Deploy no Netlify](https://weather-app-marcos-valee.netlify.app/)
+Confira o projeto online: [WeatherApp - Deploy no Netlify](https://weather-app-marcos-valee.netlify.app/)
 
 WeatherApp é uma aplicação React que permite aos usuários consultar informações meteorológicas em tempo real para qualquer cidade do mundo. A interface é moderna e responsiva, utilizando TailwindCSS e animações com Framer Motion.
 
