@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import InputWeather from "./inputWeather";
+import InputWeather from "./InputWeather";
 import ViewWeather from "./ViewWeather";
 
 
